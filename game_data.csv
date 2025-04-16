@@ -1,2 +1,20 @@
-player_name,player_score,player_reaction_time,opponent_difficulty,time_played,winner
-Player 1,0,,medium,4.311355,Opponent
+Round,Reaction Time,Result,Opponent Difficulty,Score
+1,0.514,Miss,8,0
+2,0.398,Miss,6,0
+3,0.283,Miss,9,0
+1,0.216,Miss,8,0
+2,0.363,Miss,3,0
+1,0.133,Miss,6,0
+1,0.734,Miss,3,0
+2,0.014,Miss,10,0
+3,0.249,Hit,6,100
+1,0.28,Hit,2,100
+2,0.494,Miss,5,100
+3,0.264,Hit,2,200
+4,0.165,Hit,4,300
+5,0.287,Hit,3,400
+1,0.919,Hit,9,100
+1,0.694,Hit,2,100
+1,0.263,Hit,9,100
+2,0.1,Hit,8,200
+3,0.444,Hit,1,300
