@@ -1,20 +1,69 @@
-Round,Reaction Time,Result,Opponent Difficulty,Score
-1,0.514,Miss,8,0
-2,0.398,Miss,6,0
-3,0.283,Miss,9,0
-1,0.216,Miss,8,0
-2,0.363,Miss,3,0
-1,0.133,Miss,6,0
-1,0.734,Miss,3,0
-2,0.014,Miss,10,0
-3,0.249,Hit,6,100
-1,0.28,Hit,2,100
-2,0.494,Miss,5,100
-3,0.264,Hit,2,200
-4,0.165,Hit,4,300
-5,0.287,Hit,3,400
-1,0.919,Hit,9,100
-1,0.694,Hit,2,100
-1,0.263,Hit,9,100
-2,0.1,Hit,8,200
-3,0.444,Hit,1,300
+Round,Reaction Time,Result,Opponent Difficulty,Score,Time Played (seconds)
+1,0.317,Player Hit,5,50,4.12
+2,0.284,Player Hit,5,100,9.85
+3,0.301,Opponent Hit,6,100,15.63
+1,0.295,Player Hit,5,50,3.97
+2,0.332,Player Miss,5,50,9.41
+1,0.308,Opponent Hit,5,0,4.25
+2,0.276,Player Hit,6,50,10.02
+3,0.291,Player Hit,6,100,15.78
+4,0.257,Player Hit,7,150,21.55
+1,0.324,Player Miss,5,0,4.37
+2,0.302,Player Hit,6,50,10.14
+1,0.287,Player Hit,5,50,4.08
+2,0.311,Opponent Hit,5,50,9.82
+3,0.269,Player Hit,6,100,15.59
+4,0.248,Player Hit,7,150,21.36
+5,0.231,Player Hit,8,200,27.13
+1,0.315,Player Hit,5,50,4.21
+2,0.296,Player Hit,5,100,9.98
+1,0.328,Opponent Hit,5,0,4.45
+2,0.279,Player Hit,6,50,10.22
+3,0.263,Player Hit,6,100,16.01
+1,0.301,Player Hit,5,50,4.15
+2,0.318,Player Miss,5,50,9.92
+3,0.287,Player Hit,6,100,15.68
+4,0.241,Player Hit,7,150,21.45
+1,0.292,Player Hit,5,50,3.99
+2,0.305,Player Hit,5,100,9.76
+3,0.274,Player Hit,6,150,15.54
+1,0.336,Opponent Hit,5,0,4.38
+2,0.289,Player Hit,6,50,10.15
+3,0.253,Player Hit,6,100,15.92
+4,0.227,Player Hit,7,150,21.69
+1,0.309,Player Hit,5,50,4.22
+2,0.297,Player Hit,5,100,9.99
+1,0.321,Player Miss,5,0,4.51
+2,0.268,Player Hit,6,50,10.28
+3,0.246,Player Hit,6,100,16.05
+1,0.284,Player Hit,5,50,4.07
+2,0.312,Opponent Hit,5,50,9.84
+3,0.259,Player Hit,6,100,15.61
+4,0.238,Player Hit,7,150,21.38
+1,0.299,Player Hit,5,50,4.19
+2,0.327,Player Miss,5,50,9.96
+1,0.275,Player Hit,5,50,4.01
+2,0.303,Player Hit,5,100,9.78
+3,0.281,Player Hit,6,150,15.55
+4,0.242,Player Hit,7,200,21.32
+1,0.314,Opponent Hit,5,0,4.33
+2,0.292,Player Hit,6,50,10.091
+1,0.398,Player Hit,5,50,3.69
+2,0.316,Player Hit,5,70,9.01
+3,0.364,Player Hit,5,90,12.32
+1,0.365,Player Hit,5,50,3.46
+1,0.463,Player Hit,5,20,4.33
+2,0.284,Player Hit,5,70,9.34
+3,0.399,Player Hit,5,90,14.28
+1,0.228,Player Hit,5,20,4.62
+2,0.396,Player Hit,5,70,9.62
+3,0.396,Player Hit,5,70,14.32
+4,0.331,Player Hit,5,90,19.26
+1,0.084,Player Hit,5,50,28.84
+1,0,N/A,5,0,7.89
+2,0,N/A,5,0,19.55
+3,0,N/A,5,0,23.81
+4,0,N/A,5,0,27.92
+1,0,N/A,5,0,10.67
+2,0.246,Player Hit,5,50,18.54
+3,0.362,Player Hit,5,50,27.28
